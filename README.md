@@ -33,4 +33,4 @@ Attach `ports/akuji/log.txt` and `ports/akuji/akuji.log` to any report. Logging 
 
 Tested so far: muOS 2502, RG40XX-H, 640x480. Other CFWs and resolutions are untested.
 
-The original game is Buster's freeware Akuji the Demon; the English text is D's translation. The port's source is not published yet.
+The original game is Buster's freeware Akuji the Demon; the English text is D's translation. The port's source, with `make windows`, `make linux` and `make portmaster`, is at https://github.com/AbdullahTrees/akuji.
